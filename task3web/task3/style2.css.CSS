@@ -1,0 +1,23 @@
+body {
+    background-image: url("images/linear-gradient-white-azure-5120x2880-c2-065bb5-f0fff0-a-210-f-14.svg");
+    background-size:cover;
+   text-align:right;
+}
+section{
+    float:right;
+  text-align:right;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#ariel{
+  float:left;
+}
+
+h1 {
+    background-color: Highlight;
+   text-align: center;
+   border: 3px solid black;  
+}
+#1{
+    font-size: 3px;
+}
+
